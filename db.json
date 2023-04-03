@@ -4,21 +4,6 @@
       "nombre": "Christian",
       "email": "christian@alura.com",
       "id": 1
-    },
-    {
-      "nombre": "formulario",
-      "email": "formualrio@gail.com",
-      "id": "0ca154ee-cd0a-459d-a3be-a356d60e31bd"
-    },
-    {
-      "nombre": "formulario",
-      "email": "formualrio@gail.com",
-      "id": "4df662b6-1de7-4813-83c4-926d9157477e"
-    },
-    {
-      "nombre": "formulario",
-      "email": "formualrio@gmail.com",
-      "id": "ce91697c-9d50-4a54-8b7c-f1fd18e626b1"
     }
   ]
 }
